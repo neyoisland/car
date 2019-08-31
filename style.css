@@ -1,0 +1,183 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    display: flex;
+    position: relative;
+    background: #000000;
+    height: 70px;
+}
+a{
+    color: #dddddd;
+    text-align: center;
+    text-decoration: none;
+}
+a:hover{
+    display: block;
+    background: green;
+    height: 30px;
+    border-radius: 12px;
+    width: 98px;
+}
+#logo{
+    background: red;
+    width: 25px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    color: #dddddd;
+    font-size: 32px;
+    font: bolder;
+    margin-left: 150px;
+    margin-right: 450px;
+    margin-top: 15px;
+}
+#h{
+    color: #dddddd;
+    font-size: 20px;
+    font: bolder;
+    margin-right: 30px;
+    margin-top: 22px;
+}
+#f{
+    color: #dddddd;
+    font-size: 20px;
+    font: bolder;
+    margin-right: 30px;
+    margin-top: 22px;
+}
+#a{
+    color: #dddddd;
+    font-size: 20px;
+    font: bolder;
+    margin-right: 30px;
+    margin-top: 22px;
+}
+#c{
+    color: #dddddd;
+    font-size: 20px;
+    font: bolder;
+    margin-top: 22px;
+}
+.hero{
+    display: flex;
+    background: url('../car/images/car1.png') no-repeat;
+    background-size: cover;
+    height: 549px;
+}
+.social{
+    margin-right: 60px;
+    margin-top: 180px;
+    width: 50px;
+    height: 170px;
+    background: green;
+    border-top-right-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+#fac{
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+    margin-left: 12px;
+    background-color: blue;
+    width: 25px;
+    margin-top: 16px;
+    border-radius:12px; 
+}
+#tweet{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+    margin-left: 12px;
+    background-color: white;
+    width: 25px;
+    margin-top: 16px;
+    border-radius:19px; 
+}
+#mail{
+    text-align: center;
+    color: red;
+    font-size: 27px;
+    margin-left: 12px;
+    background-color: white;
+    width: 25px;
+    margin-top: 16px;
+    border-radius:19px; 
+}
+#word{
+    color: red;
+    font: bolder;
+    font-size: 50px;
+    margin: 50px;
+    padding: 50px;
+    margin-left: 20px;
+}
+#word2{
+    color: #ffffff;
+    font: bolder;
+    font-size: 20px;
+    margin-left: 2px;
+}
+#book{
+    margin-left: 40px;
+    font: bolder;
+    font-size: 16px;
+    background: red;
+    color: #ffffff;
+    border: none;
+    width: 120px;
+    height: 30px;
+    text-transform: uppercase;
+}
+.bottom{
+    background: #000000;
+    height: 70px;
+}
+.top10{
+    background: #ffffff;
+    height: 400px;
+    opacity: .9;
+}
+.about{
+    background: #000000;
+    height: 400px;
+}
+.service{
+    background: grey;
+    height: 400px;
+}
+.offer{
+    background: #dddddd;
+    height: 400px;
+}
+.book{
+    background: #000000;
+    height: 250px;
+    opacity: .6;
+}
+.map{
+    background: grey;
+    height: 250px;
+}
+.contact{
+    background: #ffffff;
+    height: 300px;
+}
+.fil{
+    background: grey;
+    height: 200px;
+}
+.last{
+    background: #000000;
+    height: 50px;
+}
+.container2{
+    margin-top: 10px;
+    margin-left: 200px;
+    background: #ffffff;
+    width: 345px;
+    height: 400px;
+}
+#imagesIcon{
+    
+}
